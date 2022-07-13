@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "niggies.json"
+  ],
+  "homeserver_url": "https://matrix.eientei.org"
+}
